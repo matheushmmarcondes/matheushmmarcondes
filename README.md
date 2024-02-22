@@ -2,11 +2,11 @@
 
 <picture>
   <source
-    height=200 align="center" srcset="https://github-readme-stats-mu-lake.vercel.app/api?username=matheushmmarcondes&show_icons=true&theme=github_dark&langs_count=8&card_width=320"
+    srcset="https://github-readme-stats-mu-lake.vercel.app/api?username=matheushmmarcondes&show_icons=true&theme=github_dark&langs_count=8&card_width=320"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    height=200 align="center" srcset="https://github-readme-stats-mu-lake.vercel.app/api?username=matheushmmarcondes&show_icons=true&theme=default&langs_count=8&card_width=320"
+    srcset="https://github-readme-stats-mu-lake.vercel.app/api?username=matheushmmarcondes&show_icons=true&theme=default&langs_count=8&card_width=320"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 align="center" ssrc="https://github-readme-stats-mu-lake.vercel.api?username=matheushmmarcondes&show_icons=true&langs_count=8&card_width=320" />
