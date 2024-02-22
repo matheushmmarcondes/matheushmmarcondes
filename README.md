@@ -9,7 +9,7 @@
     srcset="https://github-readme-stats-mu-lake.vercel.app/api?username=matheushmmarcondes&show_icons=true&theme=default&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-mu-lake.vercel.api?username=matheushmmarcondes&show_icons=true&langs_count=8" />
+  <img height=180 align="center" src="https://github-readme-stats-mu-lake.vercel.api?username=matheushmmarcondes&show_icons=true&langs_count=8" />
 </picture>
 
 <picture>
@@ -21,7 +21,7 @@
     srcset="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes&theme=default&layout=compact&exclude_repo=github-readme-stats,matheushmmarcondes.github.io"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes=&layout=compact&=&exclude_repo=github-readme-stats,matheushmmarcondes.github.io" />
+  <img height=180 align="center" src="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes=&layout=compact&=&exclude_repo=github-readme-stats,matheushmmarcondes.github.io" />
 </picture>
 
 
