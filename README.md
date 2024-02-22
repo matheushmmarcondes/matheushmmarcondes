@@ -24,10 +24,10 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes&theme=holi&layout=compact&&gh-light-mode-only&exclude_repo=github-readme-stats,matheushmmarcondes.github.io"
+    srcset="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes&theme=vue&layout=compact&&gh-light-mode-only&exclude_repo=github-readme-stats,matheushmmarcondes.github.io"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes&theme=holi&layout=compact&&gh-light-mode-only&exclude_repo=github-readme-stats,matheushmmarcondes.github.io" />
+  <img src="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes=&layout=compact&=&exclude_repo=github-readme-stats,matheushmmarcondes.github.io" />
 </picture>
 
 - 🔭 I’m currently working on ...
