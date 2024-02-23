@@ -14,7 +14,7 @@
   
 </p>
 
-<h1 align="center"> Tecnologias </h1>
+<h1 align="center">Tecnologias   <img align= "center" src="https://github.com/matheushmmarcondes/matheushmmarcondes/blob/main/imagens/laptop.gif" width="38"></h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -26,7 +26,7 @@
 
 ---
 
-<h1 align="center"> Meus Status de GitHub</h1>
+<h2 align="center"> Meus Status de GitHub</h2>
 
 <div align="center">
 
