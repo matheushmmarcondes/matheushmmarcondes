@@ -4,7 +4,7 @@
   
   <img src="https://badges.pufler.dev/years/matheushmmarcondes"/>
   <img src="https://badges.pufler.dev/commits/monthly/matheushmmarcondes"/>
-  <img src="https://badges.pufler.dev/commits/years/matheushmmarcondes"/>
+  <img src="https://badges.pufler.dev/commits/yearly/matheushmmarcondes"/>
   <img src="https://badges.pufler.dev/repos/matheushmmarcondes"/>
   
 </p>
