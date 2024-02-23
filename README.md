@@ -1,5 +1,14 @@
 <h2 align="center"> Olá, Matheus 21 anos e Aspirante a Programador </h2>
 
+<p align="center">
+  
+  <img src="https://badges.pufler.dev/years/matheushmmarcondes"/>
+  <img src="https://badges.pufler.dev/commits/monthly/matheushmmarcondes"/>
+  <img src="https://badges.pufler.dev/commits/year/matheushmmarcondes"/>
+  <img src="https://badges.pufler.dev/repos/matheushmmarcondes"/>
+  
+</p>
+
 <h1 align="center"> Tecnologias </h1>
 
 <p align="center">
