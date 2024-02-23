@@ -13,5 +13,5 @@
 
 <h1 align="center"> Meus Status de GitHub</h1>
 
-| <a href="https://github.com/matheushmmarcondes/github-readme-stats"><img src="https://github-readme-stats-mu-lake.vercel.app/api?username=matheushmmarcondes&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" alt="Matheus's GitHub Stats" /></a> | <a href="https://github.com/matheushmmarcondes/github-readme-stats"><img src="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes&layout=compact&theme=algolia&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" /></a> |
+| <a href="https://github.com/matheushmmarcondes/github-readme-stats"><img src="https://github-readme-stats-mu-lake.vercel.app/api?username=matheushmmarcondes&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" alt="Matheus's GitHub Stats" /></a> | <a href="https://github.com/matheushmmarcondes/github-readme-stats"><img src="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes&layout=compact&theme=transparent&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" /></a> |
 | ------------- | ------------- |
