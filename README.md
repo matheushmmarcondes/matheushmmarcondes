@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+<code> Estou cursando o último semestre 🎓 de Gestão de T.I. na Universidade São Judas Tadeu 🏛. Tenho afinidade com a área desde cedo e venho buscando aprofundar meus conhecimentos e adquirir certificações 💡. Gosto de aprender linguagens novas, venho focado em Front-End (HTML5, CSS3 e JavaScript) como de começo, mas já tive estudos sobre Python 🐍. Gosto de exercitar NetWrking e trabalhar com pessoas a fim de um objetivo em comum 👨🏻‍💻. Espero que um dia veja alguma aplicação ou site que tive participação enquanto navega na Web 🕸️.</codes>
+</p> 
+
+<p align="center">
   
   <img src="https://badges.pufler.dev/years/matheushmmarcondes"/>
   <img src="https://badges.pufler.dev/commits/monthly/matheushmmarcondes"/>
