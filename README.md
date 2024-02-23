@@ -11,32 +11,7 @@
 
 ---
 
-
-| <a href="https://github.com/matheushmmarcondes/github-readme-stats"><img src="https://github-readme-stats-mu-lake.vercel.app/api?username=matheushmmarcondes&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&exclude_repo=github-readme-stats&" alt="Matheus's GitHub Stats" /></a> | <a href="https://github.com/matheushmmarcondes/github-readme-stats"><img src="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes&layout=compact&theme=vue&hide_border=true&exclude_repo=github-readme-stats" /></a> |
-| ------------- | ------------- |
-
 <h1 align="center"> Meus Status de GitHub</h1>
 
-<picture align="center">
-  |<source
-    srcset="https://github-readme-stats-mu-lake.vercel.app/api?username=matheushmmarcondes&show_icons=true&theme=vue&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  /> | <source
-    srcset="https://github-readme-stats-mu-lake.vercel.app/api?username=matheushmmarcondes&show_icons=true&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />|
-  <img height=150 align="center" src="https://github-readme-stats-mu-lake.vercel.api?username=matheushmmarcondes&show_icons=true&hide_border=true"/> 
-  | ------------- |
-</picture>
-
-<picture align="center">
-  |<source
-    align="center" srcset="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes&theme=github_dark&layout=compact&include_all_commits=true&exclude_repo=github-readme-stats&hide_border=true,matheushmmarcondes.github.io"
-    media="(prefers-color-scheme: dark)"
-  /> | <source
-    align="center" srcset="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes&theme=default&layout=compact&exclude_repo=github-readme-stats&hide_border=true,matheushmmarcondes.github.io"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />|
- <img height=150 align="center" src="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes=&layout=compact&=&exclude_repo=github-readme-stats&langs_count=8&card_width=320&hide_border=true",matheushmmarcondes.github.io" />
-  | ------------- |
-</picture> 
+| <a href="https://github.com/matheushmmarcondes/github-readme-stats"><img src="https://github-readme-stats-mu-lake.vercel.app/api?username=matheushmmarcondes&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" alt="Matheus's GitHub Stats" /></a> | <a href="https://github.com/matheushmmarcondes/github-readme-stats"><img src="https://github-readme-stats-mu-lake.vercel.app/api/top-langs/?username=matheushmmarcondes&layout=compact&theme=algolia&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" /></a> |
+| ------------- | ------------- |
