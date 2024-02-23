@@ -35,5 +35,16 @@
 
 </div>
 
-<h2> Pode me chamar..! <img src="" width=""</h2>
+---
 
+<h3 align="center"> Pode me chamar..!</h3>
+<p align="center">
+<a href="mailto: cntt.matheush@gmail.com">
+ <img src="https://img.shields.io/badge/-cntt.matheush-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cntt.matheush@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/matheushmmarcondes/">
+ <img src="https://img.shields.io/badge/-MatheusH-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheushmmarcondes/"/>
+</a>
+</p>
+
+<p align="center"> <code> se gostou do ReadMe (que é toda essa página que está vendo) da uma estrela ⭐ </code></p>
