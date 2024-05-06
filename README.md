@@ -47,4 +47,4 @@
 </a>
 </p>
 
-<p align="center"> <code> se gostou do ReadMe (que é toda essa página que está vendo) da uma estrela ⭐ </code></p>
+<p align="center"> <code> se gostou do ReadMe da uma estrela ⭐ </code></p>
